@@ -6,8 +6,11 @@ This is the clone of the Zomato Landing page built with HTML5 and CSS3.
 
 ![](/images/desktop-view.png)
 
-## Live Preview
+## Real Site
 [Zomato](https://www.zomato.com)
+
+## Live Preview
+[Zomato-Clone](https://utkarsh3128.github.io/Zomato-Clone/)
 
 ## Built with
 * HTML
