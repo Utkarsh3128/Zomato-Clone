@@ -9,7 +9,7 @@ body {
 }
 
 .main-container {
-    background-image: url("/images/zomato-bg.webp");
+    background-image: url("images/zomato-bg.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 40%;
