@@ -13,7 +13,7 @@ This is the clone of the Zomato Landing page built with HTML5 and CSS3.
 [Zomato-Clone](https://utkarsh3128.github.io/Zomato-Clone/)
 
 ## Built with
-* HTML
-* CSS
+* HTML5
+* CSS3
 
 ## Zomato Landing Page Clone
